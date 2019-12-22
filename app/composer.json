@@ -1,0 +1,12 @@
+{
+  "name": "AlexanderVasiliev23/packagist-person-package",
+  "description": "Person package",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "AlexanderVasiliev23\\": "src/"
+    }
+  }
+}
