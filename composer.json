@@ -1,5 +1,5 @@
 {
-  "name": "AlexanderVasiliev23/packagist-person-package",
+  "name": "alexander-vasiliev/packagist-person-package",
   "description": "Person package",
   "require": {
     "php": ">=7.4"
