@@ -1,10 +1,10 @@
 {
   "name": "alexander-vasiliev/packagist-person-package",
+  "license": "",
   "description": "Person package",
   "require": {
     "php": ">=7.4"
   },
-  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "AlexanderVasiliev23\\": "src/"
