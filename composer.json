@@ -1,6 +1,6 @@
 {
   "name": "alexander-vasiliev/packagist-person-package",
-  "license": "",
+  "license": "MIT",
   "description": "Person package",
   "require": {
     "php": ">=7.4"
